@@ -49,17 +49,13 @@ Web Page:
  
 
 GitHub Repository:
-habibsalltheprogrammer
+[habibsalltheprogrammer
 web_Design_DCOMP204_Assignment_1_BSEM1201_905004982_SEM4
-
+](https://github.com/habibsalltheprogrammer/web_Design_DCOMP204_Assignment_1_BSEM1201_905004982_SEM4)
 How to Run the Project
 1. Download or clone the repository  
 2. Open the index.html file in any web browser  
 3. View the webpage  
-
-Repository Link
-habibsalltheprogrammer
-web_Design_DCOMP204_Assignment_1_BSEM1201_905004982_SEM4  
-
+  
 Conclusion
 This assignment helped in understanding the basics of HTML and how to use GitHub for managing and sharing projects. It also provided practical experience in structuring a simple web page and organizing project files.
