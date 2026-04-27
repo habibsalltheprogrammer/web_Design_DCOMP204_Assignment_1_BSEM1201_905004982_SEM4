@@ -58,7 +58,8 @@ How to Run the Project
 3. View the webpage  
 
 Repository Link
-(Paste your GitHub repository link here)  
+habibsalltheprogrammer
+web_Design_DCOMP204_Assignment_1_BSEM1201_905004982_SEM4  
 
 Conclusion
 This assignment helped in understanding the basics of HTML and how to use GitHub for managing and sharing projects. It also provided practical experience in structuring a simple web page and organizing project files.
